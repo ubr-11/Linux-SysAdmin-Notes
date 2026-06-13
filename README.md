@@ -72,7 +72,7 @@ _Objectif : Administrer l'espace disque et optimiser les entrées/sorties._
 Je commence mon **BTS Cybersécurité à distance en septembre**. Très passionné par la sécurité offensive et défensive, je suis déjà en recherche active d'un stage pour mettre en pratique mes compétences et accompagner une entreprise dans sa stratégie de sécurité.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/buhri-916a99366/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uhri.brice@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
 
 ---
 _Note : Ce dépôt est une base de connaissances évolutive que je continue d'enrichir chaque jour._
